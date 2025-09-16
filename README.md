@@ -4,13 +4,13 @@ There is not enough silly UI elements in the world so I will be collecting my st
 
 ## 🌐 Live Demo
 
-**🎉 [View Live Site on GitHub Pages](https://yourusername.github.io/silly-ui/)**
+**🎉 [View Live Site on GitHub Pages](https://janjelinek.github.io/silly-ui/)**
 
 All projects are hosted live and ready to try in your browser!
 
 ## 📁 Projects
 
-### 🎤 [Volume Control](volume-control/index.html) | [🌐 Live Demo](https://yourusername.github.io/silly-ui/volume-control/)
+### 🎤 [Volume Control](volume-control/index.html) | [🌐 Live Demo](https://janjelinek.github.io/silly-ui/volume-control/)
 **Voice-controlled volume adjustment using your microphone!**
 
 - **What it does**: Uses your browser's microphone to detect noise levels and adjusts volume accordingly
