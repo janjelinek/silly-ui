@@ -2,19 +2,25 @@
 
 There is not enough silly UI elements in the world so I will be collecting my stupid ideas when I'm bored hee.
 
+## 🌐 Live Demo
+
+**🎉 [View Live Site on GitHub Pages](https://yourusername.github.io/silly-ui/)**
+
+All projects are hosted live and ready to try in your browser!
+
 ## 📁 Projects
 
-### 🎤 [Volume Control](volume-control/index.html)
+### 🎤 [Volume Control](volume-control/index.html) | [🌐 Live Demo](https://yourusername.github.io/silly-ui/volume-control/)
 **Voice-controlled volume adjustment using your microphone!**
 
 - **What it does**: Uses your browser's microphone to detect noise levels and adjusts volume accordingly
-- **How it works**: Make noise (talk, sing, clap) and watch the volume percentage change in real-time
+- **How it works**: Make noise for 3 seconds while countdown runs, volume locks at final level
 - **Features**: 
-  - Adjustable min/max thresholds for fine-tuning sensitivity
+  - 3-second countdown with live volume preview
+  - Volume locks when countdown ends
   - Visual feedback with animated progress bars
   - Silly Comic Sans design with emojis everywhere
 - **Tech**: HTML5, CSS3, JavaScript, Web Audio API, MediaDevices API
-
 
 ## 📝 License
 
